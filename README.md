@@ -1,2 +1,2 @@
 # SomaVid
-Emoption Detector
+Emotion Detector
